@@ -1,1 +1,1 @@
-rm ~/.ssh/config
+Hi 
